@@ -12,7 +12,9 @@
 * **이미지**
 <img width="600" height="400px" alt="image1" src="https://github.com/teahwa031010/tableau_github/assets/39749558/c0548e33-c78a-4597-83e4-34e23f4e3b1e">
 *그림1. 전체 현황*
+
 <img width="600" height="400px" alt="image2" src="https://github.com/teahwa031010/tableau_github/assets/39749558/7f8ed988-a8dc-4698-84d3-4bc6e6d9567b">
 *그림2. 광고주별 현황 : 광고주1*
+
 <img width="600" height="400px" alt="image3" src="https://github.com/teahwa031010/tableau_github/assets/39749558/12e7953c-5e83-4fd1-877f-06c227534762">
 *그림3. 광고주별 현황 : 광고주2*
