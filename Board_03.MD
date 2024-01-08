@@ -10,8 +10,8 @@
        + **필터** : 이용권 현재 상태
 
      - **추출(export)**
-+ 이미지 형태로 다운로드
-+ PDF 형태로 다운로드
+       + 이미지 형태로 다운로드
+       + PDF 형태로 다운로드
 
 * **이미지**
 <img width="600" height="400px" alt="image1" src="https://github.com/teahwa031010/tableau_github/assets/39749558/c0548e33-c78a-4597-83e4-34e23f4e3b1e">
