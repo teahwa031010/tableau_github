@@ -15,4 +15,5 @@
 
 * **이미지**
 <img width="600" height="400px" alt="image1" src="https://github.com/teahwa031010/tableau_github/assets/39749558/99480375-69b5-4e91-b2f3-4ae1a52732b7">
-<img width="600" height="400px" alt="image2" src="https://github.com/teahwa031010/tableau_github/assets/39749558/28e99bb4-b224-493a-9561-c669a465d025">
+<img width="600" height="400px" alt="image2" src="https://github.com/teahwa031010/tableau_github/assets/39749558/7e7ad401-10c9-4d2d-84b7-11090f267c42">
+
