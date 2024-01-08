@@ -1,6 +1,4 @@
-### ⬛ Tableau Board List
-
-#### 1. Moblie Design Sample
+### 1. Moblie Design Sample
    * **목적** : 모바일 환경에서의 디자인 샘플
    * **구성**
      - Page 1 : 특정 일자 기준으로 집계 지표
