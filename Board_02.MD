@@ -7,7 +7,7 @@
      - Page 2 : 광고주별 판매 
        + 필터 선택1 : 구매 연도
        + 필터 선택2 : 광고주
-          + ㅇㄹㅇㄹ
+          + 광고주 선택에 따라 로고 이미지 변경
 
 * **이미지**
 <img width="300" height="600px" alt="image_01" src="https://github.com/teahwa031010/tableau_github/assets/39749558/4146de49-1375-466c-93c2-688e2cfcdca8">
